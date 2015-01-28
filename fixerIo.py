@@ -35,3 +35,5 @@ def main():
 
 if __name__ == '__main__':
   main()
+
+# TODO: review error handling and refactor to detach API call and processing the results
